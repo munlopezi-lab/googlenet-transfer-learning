@@ -141,12 +141,6 @@ Clonar el repositorio:
 git clone https://github.com/munlopezi-lab/googlenet-transfer-learning.git
 ```
 
-Instalar dependencias:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Ejecución
